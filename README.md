@@ -19,15 +19,7 @@ Dự đoán giá Bitcoin ngày tiếp theo bằng mô hình LSTM (Long Short-Ter
 
 ## 📊 Demo kết quả
 
-- 🔗 **Gradio UI demo**: *(dán link gradio.live của bạn tại đây)*
+- 🔗 **Gradio UI demo**: 
 - 📄 **Google Sheet Log**: [BTC Prediction Log](https://docs.google.com/spreadsheets/d/1DyunpedkCQ0NZhUf2Ecr3bVbigbK3-AXrYPwQv8xgfE/edit#gid=0)
 
-## 📁 File chính
-- `BTC_Predictor_Gradio_Full.ipynb`: Notebook chứa toàn bộ pipeline từ dữ liệu → huấn luyện → dự đoán → ghi Google Sheets → Gradio giao diện
 
-## 📷 Hình minh họa
-*(Bạn có thể thêm ảnh chụp màn hình nếu muốn, ví dụ từ Gradio UI)*
-
----
-
-📌 *Project thực hiện bởi [tên bạn]* – nhằm học Data Science thực chiến và xây dựng portfolio cá nhân.
